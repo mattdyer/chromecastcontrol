@@ -1,0 +1,7 @@
+__pycache__
+bin
+include
+lib
+pyvenv.cfg
+pip-selfcheck.json
+.DS_Store
